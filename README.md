@@ -1,9 +1,11 @@
-# vector_clock
+# vector-clock
 
-Vector clocks with causal ordering, concurrency detection, merge
+Vector clocks for distributed event ordering.
+
+## Usage
 
 ```bash
 python3 vector_clock.py test
 ```
 
-Zero deps. Python 3.8+.
+Zero dependencies. Python 3.8+.
