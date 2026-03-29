@@ -1,10 +1,9 @@
-# Vector Clock
+# vector_clock
 
-A zero-dependency Python CLI tool.
-
-## Usage
+Vector clocks with causal ordering, concurrency detection, merge
 
 ```bash
-python vector_clock.py test
-python vector_clock.py demo
+python3 vector_clock.py test
 ```
+
+Zero deps. Python 3.8+.
