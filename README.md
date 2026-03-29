@@ -1,11 +1,10 @@
 # vector-clock
 
-Vector clocks for distributed event ordering.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
+python3 vector_clock.py
 python3 vector_clock.py test
 ```
-
-Zero dependencies. Python 3.8+.
